@@ -18,7 +18,7 @@ namespace ProjectTest.API.Controllers
         public string Get()
         {
             _logger.LogInformation("Initial Home Get");
-            return "Net Core 5.0 Running ... 26062021-v1.2 Jenkins File Raul AFORO255 intento4.1 desde pipeline";
+            return "Net Core 5.0 Running ... 26062021-v1.2 Jenkins File Raul AFORO255 intento4.2 desde pipeline archivo";
         }
     }
 }
